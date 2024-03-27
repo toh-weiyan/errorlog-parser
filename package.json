@@ -1,0 +1,25 @@
+{
+  "name": "errorlog-parser",
+  "version": "1.0.0",
+  "description": "Parsing through error logs using OPENAI",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toh-weiyan/errorlog-parser.git"
+  },
+  "keywords": [
+    "parsing",
+    "log",
+    "SQL",
+    "OpenAI"
+  ],
+  "author": "\"Toh Wei Yan <weiyan.toh@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toh-weiyan/errorlog-parser/issues"
+  },
+  "homepage": "https://github.com/toh-weiyan/errorlog-parser#readme"
+}
